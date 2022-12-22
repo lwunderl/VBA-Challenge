@@ -1,6 +1,6 @@
 # VBA-Challenge
-Module 2 challenge assignment\n
-Open VBA-challenge.xlsm\n
-Import VBA_challenge_module.bas\n
-Select the main() macro to run in VBA-challenge.xlsm\n
-The main() macro will cycle through each worksheet and return the required information requested in the challenge assignment.
+Module 2 challenge assignment.<br/>
+Open VBA-challenge.xlsm<br/>
+Import VBA_challenge_module.bas<br/>
+Select the main() macro to run in VBA-challenge.xlsm<br/>
+The main() macro will cycle through each worksheet and return the required information requested in the challenge assignment.<br/>
